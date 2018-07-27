@@ -1,0 +1,26 @@
+SNO,TimeStamp,Session-ID,Doctor-ID,Doctor-Name,Surgery-Name,Patient-ID,Patient-Name,Treatment Name,Drug-Name,Dosage,Refill,DoctorsNote,Smoke,Alcoholic,History,Age,Disablity Person,Rx Number,RX Expricy,Dosing Type
+1,,,Doc_jaga001,Jagadeesh,Heart,Pat_1001,Arvind,Remove Blogs,Lipitor,80mg,3,Mini stoke,Yes,Yes,No,61,No,RX829,08/18,Twice in a Day
+2,,,Doc_Rama001,Ramasamy,Nervous,Pat_1002,Naveen,Control of FIX,Campral EC.,50mg,2,control of Fix,No,No,Yes,60,No,RX546,08/18,Thrice in a Day
+3,,,Doc_Karth001,Karthick,"Respiratory Diseases
+",Pat_1003,Shanmugam,To Freeze the Breathing,Cefadroxil ,100mg,3,External Action in place,Yes,Yes,Yes,55,No,RX980,18/Dec,Twice in a Day
+4,,,Doc_Siru001,Sirumugai,Tuberculosis,Pat_1004,Muthu,Tuberculosis,Isoniazid,100mg,2,External Action in place,Yes,Yes,No,59,No,RX670,18/Dec,Twice in a Day
+5,,,Doc_Arun001,Arunkumar,Malignant and Other Tumours,Pat_1005,Krishna, Malignant and Other Tumours,Carboplatin,60mg,4,Regular oilment,Yes,Yes,Yes,70,No,RX679,18/Dec,Twice in a Day
+6,,,Doc_jaga001,Jagadeesh,"Digestive Diseases
+",Pat_1006,Gopi,"Digestive Diseases
+",Invertase,100mg,4,Glucose to be in place,Yes,Yes,Yes,55,Yes,RX879,18/Dec,Twice in a Day
+7,,,Doc_Rama001,Ramasamy,Diarrheal Diseases,Pat_1007,Vijay,Diarrheal Diseases,loperamide ,100mg,4,Glucose to be in place,No,No,No,45,No,RX780,18/Dec,Twice in a Day
+8,,,Doc_Karth001,Karthick,"Unintentional Injuries
+",Pat_1008,Dharma,Accident Injuries,ketoconazole ,100mg,5,Regular oilment,No,No,No,64,No,RX456,20/Dec,Twice in a Day
+9,,,Doc_Siru001,Sirumugai,"Intentional Self Harm
+",Pat_1009,Selva,Depression,Prozac ,50mg,3,Patient should care,Yes,Yes,Yes,45,No,RX345,19/Nov,Twice in a Day
+10,,,Doc_Arun001,Arunkumar,Malaria,Pat_1010,Mani,Malaria,Malarone,100mg,4,Regular oilment,Yes,Yes,Yes,50,No,RX567,19/Nov,Twice in a Day
+11,,,Doc_Manoj001,ManojKumar,Bye-pass,Pat_1011,Akash,Preventive Heart-attack,Bisoprolol ,10mg,2,Mild Attack,Yes,Yes,Yes,40,No,RX780,16/Sep,Twice in a Day
+12,,,Doc_Sai001,SaiKumar,Cataract surgery,Pat_1012,Amar,Eye Blurredness,Aspirin,10mg,2,Eye Puffiness,No,Yes,No,45,No,RX860,19/Oct,Twice in a Day
+13,,,Doc_Jega001,JeganKumar,Urethroplasty,Pat_1013,Anoop,Urine Difficulty,Flavoxate,5mg,4,High Uric Acid,Yes,Yes,Yes,50,No,RX777,21/Nov,Thrice in a Day
+14,,,Doc_Suren001,SurenKumar,Cosmetic Surgery,Pat_1014,Ram,Skin Allergies,Cetrizine,10mg,3,Rashes and Itching in Skin,Yes,No,Yes,34,No,RX989,22/Dec,Twice in a Day
+15,,,Doc_Kiran001,KiranKumar,Arthoplasty,Pat_1015,Ashwin,Knee Join Replacement,Aleve,5mg,5,Knee Pain,Yes,Yes,Yes,47,No,RX575,14/Aug,Twice in a Day
+16,,,Doc_Ashwin001,AshwinKumar,Inguinal hernia,Pat_1016,Raghav,Hernia Correction,Zantac,75mg,2,Groin Pain,Yes,Yes,No,30,No,RX333,25/Dec,Thrice in a Day
+17,,,Doc_Sarin001,SarinKumar,Prostatectomy ,Pat_1017,Naren,Prostrate Gland Correction,Uroxatral,10mg,5,Urinary Incontinence,Yes,Yes,yes,27,No,RX423,16/Oct,Once in a Day
+18,,,Doc_Somak001,SomakKumar,Cholecystectomy ,Pat_1018,Mark,Gallbladder Removal,Ursodial,8mg,5,GallStones,Yes,Yes,Yes,36,No,RX921,12/Sep,Twice in a Day
+19,,,Doc_Nirmal001,NirmalKumar,Appendectomy,Pat_1019,Murali,Appendix Removal,Zosyn,4 mg,1,Intestine Inflammation,Yes,Yes,Yes,25,No,RX543,11/Aug,Twice in a Day
+20,,,Doc_Surya001,SuryaKumar,Polypectomy ,Pat_1020,Smith,Colon Growth Removal,Avastin,1mg,2,Rectal Bleeding,Yes,Yes,No,48,No,RX199,10/Jul,Twice in a Day
